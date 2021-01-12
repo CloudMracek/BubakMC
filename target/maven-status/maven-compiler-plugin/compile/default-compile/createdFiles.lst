@@ -1,6 +1,6 @@
-me\cloud\bubakmc\listeners\PlayerQuitListener.class
-me\cloud\bubakmc\utils\DiscordAPI.class
-me\cloud\bubakmc\utils\DiscordEventHandler.class
-me\cloud\bubakmc\Main.class
-me\cloud\bubakmc\listeners\PlayerChatListener.class
-me\cloud\bubakmc\listeners\PlayerJoinListener.class
+me/cloud/bubakmc/listeners/PlayerJoinListener.class
+me/cloud/bubakmc/listeners/PlayerChatListener.class
+me/cloud/bubakmc/listeners/PlayerQuitListener.class
+me/cloud/bubakmc/utils/DiscordEventHandler.class
+me/cloud/bubakmc/Main.class
+me/cloud/bubakmc/utils/DiscordAPI.class
